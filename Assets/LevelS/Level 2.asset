@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eba36edbe0f14a939e2fa57b945efcd2, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  LevelName: Space 2
+  LevelDuration: 120
+  Order: 1
+  lvlSpawnEnemys:
+  - {fileID: -6578143071627114698, guid: bb4854a0273902740aa47f4164046ee8, type: 3}
+  - {fileID: 5453267799904230125, guid: 30d27cdd20134f447b90b2dce394ee27, type: 3}
+  - {fileID: 4373773127665742063, guid: 772ce7da4b20e9640872873885d69137, type: 3}
+  lvlSpawnUpgrade:
+  - {fileID: 2630031421064343744, guid: 69f997d96b453c843980fee31700add4, type: 3}
+  - {fileID: 3798510946235046564, guid: e369bd1288663954a9f8fcd85157465d, type: 3}
+  - {fileID: 8113883407535709000, guid: 0c3d88e97c3641842b0d877e15f6b2e5, type: 3}
+  - {fileID: 1291364654713774814, guid: 7abe80a0fd0b2914a8cd2e5321ddec3a, type: 3}

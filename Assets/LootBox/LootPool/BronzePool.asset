@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e098450844db4edd8d05ac3e338c7928, type: 3}
+  m_Name: BronzePool
+  m_EditorClassIdentifier: 
+  Loot:
+  - {fileID: 11400000, guid: 4472ccd61d62ae54c82af03155b060ce, type: 2}
+  - {fileID: 11400000, guid: ee1bbdd03a80d404e949c717fd7f0168, type: 2}
+  - {fileID: 11400000, guid: 5f5b3095d3dceb44dad7342751ee0b12, type: 2}
